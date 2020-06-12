@@ -1,0 +1,25 @@
+{
+  "name": "creactwork",
+  "version": "1.0.0",
+  "description": "coursera full react course",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esneidermanzano/creactwork.git"
+  },
+  "author": "Esneider Manzano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esneidermanzano/creactwork/issues"
+  },
+  "homepage": "https://github.com/esneidermanzano/creactwork#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
