@@ -1,5 +1,4 @@
 {
-
   "name": "creactwork",
   "version": "1.0.0",
   "description": "coursera full react course",
@@ -14,9 +13,13 @@
   "devDependencies": {
     "lite-server": "^2.3.0"
   },
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/esneidermanzano/creactwork.git"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
   }
 }
