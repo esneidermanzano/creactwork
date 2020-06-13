@@ -1,16 +1,48 @@
 {
+<<<<<<< HEAD
   "name": "confusion",
   "version": "1.0.0",
   "description": "This is a website for Ristorante Con Fusion",
+=======
+<<<<<<< HEAD
+  "name": "confusion",
+  "version": "1.0.0",
+  "description": "This is a website for Ristorante Con Fusion",
+=======
+  "name": "creactwork",
+  "version": "1.0.0",
+  "description": "coursera full react course",
+>>>>>>> aab3ea6897ecb98be6ef04cc44fb188ec1df77be
+>>>>>>> cd0953275f67b7b7dca96a5b02d6f2a2f603a2ba
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
+<<<<<<< HEAD
+  "author": "",
+=======
+<<<<<<< HEAD
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.3.0"
+=======
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esneidermanzano/creactwork.git"
+  },
+  "author": "Esneider Manzano",
+>>>>>>> cd0953275f67b7b7dca96a5b02d6f2a2f603a2ba
+  "license": "ISC",
+  "devDependencies": {
+<<<<<<< HEAD
+    "lite-server": "^2.3.0"
+=======
+    "lite-server": "^2.5.4"
+>>>>>>> aab3ea6897ecb98be6ef04cc44fb188ec1df77be
+>>>>>>> cd0953275f67b7b7dca96a5b02d6f2a2f603a2ba
   }
 }
